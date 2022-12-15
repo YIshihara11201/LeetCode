@@ -66,4 +66,4 @@
 1029 Two City Scheduling\
 1514 Path with Maximum Probability\
 1631 Path With Minimum Effort\
-1791 Find Center of Star Graph\
+1791 Find Center of Star Graph
