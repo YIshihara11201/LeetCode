@@ -1,0 +1,26 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findDuplicate = function(nums) {
+    let duplicate = -1;
+    
+    for(let i=0; i<nums.length; i++) {
+        let cur = Math.abs(nums[i]);
+        if(nums[cur]<0) {
+            duplicate = cur;
+            break;
+        }
+        
+        nums[cur] *=- 1;
+    }
+    
+    for(let i=0; i<nums.length; i++) {
+        if(nums[i]<0) {
+            nums[i] *=- 1;
+            break;
+        }
+    }
+    
+    return duplicate;
+};
