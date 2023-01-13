@@ -36,6 +36,7 @@
 160 Intersection of Two Linked Lists\
 169 Majority Element\
 189 Rotate Array\
+202 Happy Number\
 206 Reverse Linked List\
 207 Course Schedule\
 210 Course Schedule II\
