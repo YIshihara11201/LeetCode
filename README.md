@@ -43,6 +43,7 @@
 207 Course Schedule\
 210 Course Schedule II\
 215 Kth Largest Element in an Array\
+217 Contains Duplicate\
 226 Invert Binary Tree\
 230 Kth Smallest Element in a BST\
 234 Palindrome Linked List\
