@@ -62,6 +62,7 @@
 621 Task Scheduler\
 633 Sum of Square Numbers\
 684 Redundant Connection\
+704 Binary Search\
 743 Network Delay Time\
 763 Partition Labels\
 787 Cheapest Fights Within K Stops\
