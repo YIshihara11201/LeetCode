@@ -24,7 +24,6 @@
 101 Symmetric Tree\
 102 Binary Tree Level Order Traversal\
 104 Maximum Depth of Binary Tree\
-144 Binary Tree Preorder Traversal\
 118 Pascal's Triangle\
 119 Pascal's Triangle II\
 121 Best Time to Buy and Sell Stock\
@@ -32,6 +31,7 @@
 134 Gas Station\
 136 Single Number\
 141 Linked List Cycle\
+144 Binary Tree Preorder Traversal\
 148 Sort List\
 155 Min Stack\
 160 Intersection of Two Linked Lists\
