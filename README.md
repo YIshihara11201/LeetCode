@@ -17,7 +17,7 @@
 53 Maximum Subarray\
 64 Minimum Path Sum\
 70 Climbing Stairs\
-78 SUbsets\
+78 Subsets\
 91 Decode Ways\
 94 Binary Tree Inorder Traversal\
 96 Unique Binary Search Trees\
