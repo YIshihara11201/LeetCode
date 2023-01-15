@@ -67,6 +67,7 @@
 684 Redundant Connection\
 704 Binary Search\
 743 Network Delay Time\
+746 Min Cost Climbing Stairs\
 763 Partition Labels\
 787 Cheapest Fights Within K Stops\
 977 Squares of a Sorted Array\
