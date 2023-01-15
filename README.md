@@ -18,6 +18,7 @@
 64 Minimum Path Sum\
 70 Climbing Stairs\
 78 Subsets\
+88 Merge Sorted Array\
 91 Decode Ways\
 94 Binary Tree Inorder Traversal\
 96 Unique Binary Search Trees\
@@ -68,6 +69,7 @@
 743 Network Delay Time\
 763 Partition Labels\
 787 Cheapest Fights Within K Stops\
+977 Squares of a Sorted Array\
 997 Find the Town Judge\
 1137 N-th Tribonacci Number\
 1029 Two City Scheduling\
