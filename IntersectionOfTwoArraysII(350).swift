@@ -1,3 +1,5 @@
+// intersection is an overlaying part of two sets
+
 class Solution {
 	func intersect(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
 		var dict1: [Int:Int] = [:]
