@@ -44,6 +44,7 @@
 206 Reverse Linked List\
 207 Course Schedule\
 210 Course Schedule II\
+213 House Robber II\
 215 Kth Largest Element in an Array\
 217 Contains Duplicate\
 226 Invert Binary Tree\
@@ -70,6 +71,7 @@
 684 Redundant Connection\
 704 Binary Search\
 733 Flood Fill\
+740 Delete and Earn\
 743 Network Delay Time\
 746 Min Cost Climbing Stairs\
 763 Partition Labels\
