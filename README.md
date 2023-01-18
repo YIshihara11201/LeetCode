@@ -72,6 +72,7 @@
 633 Sum of Square Numbers\
 684 Redundant Connection\
 704 Binary Search\
+724 Find Pivot Index\
 733 Flood Fill\
 740 Delete and Earn\
 743 Network Delay Time\
