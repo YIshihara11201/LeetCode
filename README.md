@@ -12,6 +12,7 @@
 22 Generate Parentheses\
 26 Remove Duplicates from Sorted Array\
 35 Search Insert Position\
+36 Valid Sudoku\
 39 Combination Sum\
 48 Rotate Image\
 53 Maximum Subarray\
