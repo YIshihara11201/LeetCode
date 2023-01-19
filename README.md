@@ -18,6 +18,7 @@
 53 Maximum Subarray\
 64 Minimum Path Sum\
 70 Climbing Stairs\
+74 Search a 2D Matrix\
 78 Subsets\
 88 Merge Sorted Array\
 91 Decode Ways\
