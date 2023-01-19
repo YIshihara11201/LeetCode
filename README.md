@@ -63,6 +63,7 @@
 338 Counting Bits\
 347 Top K Frequent Elements\
 350 Intersection of Two Arrays II\
+383 Ransom Note\
 387 First Unique Character in a String\
 392 Is Subsequence\
 416 Partition Equal Subset Sum\
