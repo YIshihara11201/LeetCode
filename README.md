@@ -56,6 +56,7 @@
 234 Palindrome Linked List\
 236 Lower Common Ancestor of a Binary Tree\
 238 Product of Array Except Self\
+242 Valid Anagram\
 278 First Bad Version\
 283 Move Zeros\
 287 Find the Duplicate Number\
