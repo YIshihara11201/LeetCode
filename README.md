@@ -82,6 +82,7 @@
 633 Sum of Square Numbers\
 684 Redundant Connection\
 704 Binary Search\
+714 Best Time to Buy and Sell Stock with Transaction Fee\
 724 Find Pivot Index\
 733 Flood Fill\
 740 Delete and Earn\
