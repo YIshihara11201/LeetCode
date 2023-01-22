@@ -14,6 +14,7 @@
 35 Search Insert Position\
 36 Valid Sudoku\
 39 Combination Sum\
+45 Jump Game II\
 48 Rotate Image\
 53 Maximum Subarray\
 55 Jump Game\
