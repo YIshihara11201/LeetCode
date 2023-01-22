@@ -91,8 +91,10 @@
 746 Min Cost Climbing Stairs\
 763 Partition Labels\
 787 Cheapest Fights Within K Stops\
+918 Maximum Sum Circular Subarray\
 977 Squares of a Sorted Array\
 997 Find the Town Judge\
+1014 Best Sightseeing Pair\
 1137 N-th Tribonacci Number\
 1029 Two City Scheduling\
 1514 Path with Maximum Probability\
