@@ -16,6 +16,7 @@
 39 Combination Sum\
 48 Rotate Image\
 53 Maximum Subarray\
+55 Jump Game\
 64 Minimum Path Sum\
 70 Climbing Stairs\
 74 Search a 2D Matrix\
