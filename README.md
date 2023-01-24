@@ -71,6 +71,7 @@
 383 Ransom Note\
 387 First Unique Character in a String\
 392 Is Subsequence\
+413 Arithmetic Slices\
 416 Partition Equal Subset Sum\
 494 Target Sum\
 509 Fibonacci Number\
