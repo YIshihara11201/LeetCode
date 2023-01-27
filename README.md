@@ -38,6 +38,7 @@
 134 Gas Station\
 136 Single Number\
 141 Linked List Cycle\
+142 Linked List Cycle II\
 144 Binary Tree Preorder Traversal\
 148 Sort List\
 155 Min Stack\
