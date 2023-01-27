@@ -82,6 +82,7 @@
 547 Number of Provinces\
 557 Reverse Words in a String III\
 566 Reshape the Matrix\
+567 Permutation in String\
 589 N-ary Tree Preorder Traversal\
 617 Merge Twi Binary Trees\
 621 Task Scheduler\
