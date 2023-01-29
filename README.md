@@ -39,6 +39,7 @@
 131 Palindrome Partitioning\
 134 Gas Station\
 136 Single Number\
+139 Word Break\
 141 Linked List Cycle\
 142 Linked List Cycle II\
 144 Binary Tree Preorder Traversal\
